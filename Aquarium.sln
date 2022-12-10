@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aquarium", "Aquarium\Aquarium.csproj", "{FEC13122-C464-4170-9601-A57DB5C69908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AquariumTests", "AquariumTests\AquariumTests.csproj", "{7881B2A1-C5ED-42B1-8FC5-F179F13E906E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC13122-C464-4170-9601-A57DB5C69908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC13122-C464-4170-9601-A57DB5C69908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC13122-C464-4170-9601-A57DB5C69908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC13122-C464-4170-9601-A57DB5C69908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7881B2A1-C5ED-42B1-8FC5-F179F13E906E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7881B2A1-C5ED-42B1-8FC5-F179F13E906E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7881B2A1-C5ED-42B1-8FC5-F179F13E906E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7881B2A1-C5ED-42B1-8FC5-F179F13E906E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11AD00B7-08AA-40B5-A330-357DF3A3850C}
+	EndGlobalSection
+EndGlobal
